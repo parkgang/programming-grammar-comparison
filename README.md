@@ -7,9 +7,9 @@
 
 ```shell
 # go
-go run {파일명}.go
+go run ./go/{파일명}.go
 # js
-node {파일명}.js
+node ./js/{파일명}.js
 ```
 
 # 시나리오
