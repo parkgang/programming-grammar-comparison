@@ -5,14 +5,17 @@
 
 # 언어별 실행 방법
 
-```shell
-# go
-go run ./go/{시나리오 명}/main.go
-# js
-node ./js/{시나리오 명}/index.js
-# c#
-dotnet run -p ./c-sharp/{시나리오 명}/{시나리오 명}.csproj
-```
+## go
+
+go run ./go/`{시나리오 명}`/main.go
+
+## js
+
+node ./js/`{시나리오 명}`/index.js
+
+## c#
+
+dotnet run -p ./c-sharp/`{시나리오 명}`/`{시나리오 명}`.csproj
 
 # 시나리오
 
