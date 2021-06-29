@@ -10,6 +10,8 @@
 go run ./go/{파일명}.go
 # js
 node ./js/{파일명}.js
+# c#
+dotnet run -p ./c-sharp/{파일명}.csproj
 ```
 
 # 시나리오
