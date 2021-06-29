@@ -7,11 +7,11 @@
 
 ```shell
 # go
-go run ./go/{파일명}.go
+go run ./go/{시나리오 명}/main.go
 # js
-node ./js/{파일명}.js
+node ./js/{시나리오 명}/index.js
 # c#
-dotnet run -p ./c-sharp/{파일명}.csproj
+dotnet run -p ./c-sharp/{시나리오 명}/{시나리오 명}.csproj
 ```
 
 # 시나리오
