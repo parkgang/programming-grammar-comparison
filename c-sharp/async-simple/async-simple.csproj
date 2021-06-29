@@ -3,7 +3,7 @@
   <PropertyGroup>
     <OutputType>Exe</OutputType>
     <TargetFramework>net5.0</TargetFramework>
-    <RootNamespace>c_sharp</RootNamespace>
+    <RootNamespace>async_simple</RootNamespace>
   </PropertyGroup>
 
 </Project>
