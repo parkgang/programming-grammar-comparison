@@ -13,7 +13,7 @@ func WorkDo(channel chan string, sec time.Duration, content string) {
 func main() {
 	message := make(chan string)
 
-	fmt.Println("비동기 작업 시작")
+	fmt.Println("go 비동기 작업 시작")
 
 	go WorkDo(message, 200, "1번째 비동기 작업")
 	go WorkDo(message, 1000, "2번째 비동기 작업")

@@ -7,7 +7,7 @@ namespace async_simple
   {
     async static Task Main()
     {
-      Console.WriteLine("비동기 작업 시작");
+      Console.WriteLine("c# 비동기 작업 시작");
 
       await Task.WhenAll(new[]
       {

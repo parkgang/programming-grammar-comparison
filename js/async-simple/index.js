@@ -7,7 +7,7 @@ async function WorkDo(sec, content) {
   });
 }
 
-console.log("비동기 작업 시작");
+console.log("js 비동기 작업 시작");
 
 Promise.all([
   WorkDo(200, "1번째 비동기 작업"),
