@@ -31,5 +31,5 @@ func main() {
 		}
 	}
 
-	fmt.Println("프로그램을 종료합니다")
+	fmt.Println("반복문 종료")
 }
