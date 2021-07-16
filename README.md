@@ -8,7 +8,7 @@
 ```shell
 # go
 go run ./go/{시나리오 명}/main.go
-# js
+# js (package.json가 있는 경우 script를 존중합니다)
 node ./js/{시나리오 명}/index.js
 # c#
 dotnet run -p ./c-sharp/{시나리오 명}/{시나리오 명}.csproj
