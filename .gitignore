@@ -1,7 +1,9 @@
 # go
 
 # js
+node_modules
+build
 
 # c-sharp
-obj/
-bin/
+obj
+bin
